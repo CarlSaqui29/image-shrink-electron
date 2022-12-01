@@ -1,0 +1,16 @@
+{
+  "name": "main.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "author": "Carl Saqui",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^22.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
